@@ -1,0 +1,17 @@
+<destinations>
+  <destination>
+      <name>Manglore</name>
+      <country>India</country>
+      <description>Mangalore's tropical climate, scenic beauty, and warm hospitality make it a must-visit destination for travelers seeking both relaxation and cultural immersion.</description>
+  </destination>
+  <destination>
+    <name>Goa</name>
+    <country>India</country>
+    <description>Beyond the beaches, Goa offers lush green landscapes, spice plantations, and wildlife sanctuaries like Bhagwan Mahavir, ideal for nature lovers. The state's vibrant markets, such as the Anjuna Flea Market, are perfect for picking up local handicrafts, jewelry, and souvenirs.</description>
+</destination>
+  <destination>
+      <name>Kashmir</name>
+      <country>India</country>
+      <description>Kashmir, often referred to as "Paradise on Earth," is a breathtakingly beautiful region in northern India, known for its stunning landscapes, snow-capped mountains, and serene valleys. Nestled in the lap of the Himalayas, Kashmir offers a mesmerizing blend of natural beauty and rich cultural heritage.</description>
+  </destination>
+</destinations>
